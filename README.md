@@ -5,6 +5,6 @@ flyer
 
 
 
-social media post
+<b>social media post</b>
 ![social_media_post](https://user-images.githubusercontent.com/78899323/124866882-c2437f00-dfda-11eb-8d26-b0d02dc4d08b.jpg)
 
