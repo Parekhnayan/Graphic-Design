@@ -1,7 +1,8 @@
 # Graphic-Design-Work
 # Web Layout
 ![website](https://user-images.githubusercontent.com/78899323/125549982-b7e17470-299d-4d22-a6a6-76a0d9089cda.jpg)
-
+# Web Layout
+![screencapture-file-C-Users-NAYAN-Desktop-Template-rd-business-about-html-2021-05-08-15_42_16](https://user-images.githubusercontent.com/78899323/126519189-b477ef59-0d15-499f-859c-c69247621e55.png)
 # Flyer
 ![marketing](https://user-images.githubusercontent.com/78899323/124571874-cdc16980-de65-11eb-91fd-a1d71e0a233d.jpg)
 # Gym Flyer
